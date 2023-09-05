@@ -1,0 +1,47 @@
+.sorting {
+  overflow: hidden;
+  margin-top: 350px;
+  height: fit-content;
+}
+
+.sorting > a {
+  font-size: 11px;
+  text-decoration: none !important;
+  color: black !important;
+}
+.sorting > a:hover {
+  text-decoration: underline !important;
+  color: black;
+}
+
+.sorting > ul {
+  list-style-type: none;
+}
+
+.sorting > label {
+  font-size: smaller;
+  padding: 10px;
+}
+
+.sorting > li {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.sorting > label {
+  font-size: 10px;
+}
+
+.sorting-list-header {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.sorting-text {
+  font-size: 12px;
+}
+
+.form-select {
+  font-size: 12px !important;
+  color: grey !important;
+}
